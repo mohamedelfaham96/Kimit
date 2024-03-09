@@ -1,3 +1,4 @@
-sskacjdksna
-askjads
-`:q`
+#!/bin/bash
+mkdir /home/kimit 
+chmod 770 /home/kimit
+echo "hello"
